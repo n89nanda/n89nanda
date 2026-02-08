@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 > Building developer tools, apps, and open-source frameworks. I build projects that have zero-dependencies, that are fast and simple.
 
-**[nandabhat.com](https://nandabhat.com/)** (closed source) – Personal website
-**[webforspeed.com](https://webforspeed.com/)** (closed source) – Platform to interact with AI LLM models
+- **[nandabhat.com](https://nandabhat.com/)** (closed source) – Personal website
+- **[webforspeed.com](https://webforspeed.com/)** (closed source) – Platform to interact with AI LLM models
 
 ## Current Projects
 
