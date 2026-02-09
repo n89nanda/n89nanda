@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - **[Bono](https://github.com/webforspeed/bono)** - Autonomous terminal coding agent that takes tasks from plan to implementation—editing files, running commands, and researching online with step-by-step permission.
 - **[Bono-core](https://github.com/webforspeed/bono-core)** - Autonomous terminal coding agent core that powers bono
 - **[Chassis](https://github.com/webforspeed/chassis)** - A web-native framework for building adaptive cross-platform experiences.
-- **[dailygreen](https://github.com/webforspeed/dailygreen)** - See your github contributions as an image
+- **[dailygreen](https://www.dailygreen.xyz)** - See your github contributions as an image
 
 ### Archived projects
 - **[event-bus](https://github.com/n89nanda/event-bus)** - python event bus
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://dailygreen.vercel.app/n89nanda)
+![GitHub Contribution Graph](https://dailygreen.xyz/n89nanda)
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@may_9819-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/may_9819)
