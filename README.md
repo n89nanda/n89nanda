@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/n89nanda)
-
 ![GitHub Contribution Graph](https://dailygreen.vercel.app/n89nanda)
 ## Connect
 
