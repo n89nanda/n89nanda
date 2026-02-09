@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/n89nanda)
 
-
+![GitHub Contribution Graph](https://dailygreen.vercel.app/n89nanda)
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@may_9819-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/may_9819)
