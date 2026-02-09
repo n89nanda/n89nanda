@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - **[Bono](https://github.com/webforspeed/bono)** - Autonomous terminal coding agent that takes tasks from plan to implementation—editing files, running commands, and researching online with step-by-step permission.
 - **[Bono-core](https://github.com/webforspeed/bono-core)** - Autonomous terminal coding agent core that powers bono
 - **[Chassis](https://github.com/webforspeed/chassis)** - A web-native framework for building adaptive cross-platform experiences.
+- **[dailygreen](https://github.com/webforspeed/dailygreen)** - See your github contributions as an image
 
 ### Legacy Work
 - **[event-bus](https://github.com/n89nanda/event-bus)** - python event bus
