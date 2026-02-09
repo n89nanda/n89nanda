@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - **[Chassis](https://github.com/webforspeed/chassis)** - A web-native framework for building adaptive cross-platform experiences.
 - **[dailygreen](https://github.com/webforspeed/dailygreen)** - See your github contributions as an image
 
-### Legacy Work
+### Archived projects
 - **[event-bus](https://github.com/n89nanda/event-bus)** - python event bus
 - **[prett-pocket](https://github.com/n89nanda/pretty-pocket)** - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 
