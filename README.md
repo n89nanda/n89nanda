@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - **[Chassis](https://github.com/webforspeed/chassis)** - A web-native framework for building adaptive cross-platform experiences.
 - **[dailygreen](https://www.dailygreen.xyz)** - See your github contributions as an image
 - **[openresponses-go](https://github.com/webforspeed/openresponses-go)** - Golang sdk for openresponses spec
+- **[speedmux](https://github.com/webforspeed/speedmux)** - terminal multiplexer written in Go
 
 ### Archived projects
 - **[event-bus](https://github.com/n89nanda/event-bus)** - python event bus
